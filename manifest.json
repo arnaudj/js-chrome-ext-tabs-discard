@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Tabs discarder",
+  "version": "1.0",
+  "description": "Quickly discard all tabs from memory (i.e, unloaded until clicked again)",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}

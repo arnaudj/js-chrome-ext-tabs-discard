@@ -1,0 +1,13 @@
+body {
+  width: 12rem;
+}
+
+#nbtabs {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.discardbtn {
+  margin-top: 10px;
+  font-size: 18px;
+}
